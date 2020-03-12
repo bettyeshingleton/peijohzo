@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igoofooxae.needis.me/sitemap.xml
